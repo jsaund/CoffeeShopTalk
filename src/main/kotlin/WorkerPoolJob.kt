@@ -1,0 +1,1 @@
+typealias Job = suspend () -> Unit
